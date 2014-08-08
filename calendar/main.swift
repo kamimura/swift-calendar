@@ -8,5 +8,8 @@
 
 import Foundation
 
-println("Hello, World!")
+println(isLeap(2014))
 
+println(leapdays(2000, 2051))
+
+println(getWeekday(2016, 7, 29))
