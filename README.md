@@ -1,3 +1,3 @@
 swift-calendar
 ==============
-about a leap year
+about leap years
